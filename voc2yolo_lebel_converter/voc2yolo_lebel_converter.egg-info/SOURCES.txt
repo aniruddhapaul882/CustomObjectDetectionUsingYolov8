@@ -1,0 +1,5 @@
+setup.py
+voc2yolo_lebel_converter.egg-info/PKG-INFO
+voc2yolo_lebel_converter.egg-info/SOURCES.txt
+voc2yolo_lebel_converter.egg-info/dependency_links.txt
+voc2yolo_lebel_converter.egg-info/top_level.txt

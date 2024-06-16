@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: voc2yolo_lebel_converter
+Version: 0.1
+Summary: A package to convert Pascal VOC annotations to YOLO format
+Author: Aniruddha Paul
+Author-email: aniruddhapau882@gmail.com

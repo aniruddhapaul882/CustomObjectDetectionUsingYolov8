@@ -1,0 +1,6 @@
+train: C:/Users/aniru/OneDrive/Desktop/CustomObjDetectionYolo/CustomObjectDetectionUsingYolov8/dataset/train/images
+test: C:/Users/aniru/OneDrive/Desktop/CustomObjDetectionYolo/CustomObjectDetectionUsingYolov8/dataset/test/images
+val: C:/Users/aniru/OneDrive/Desktop/CustomObjDetectionYolo/CustomObjectDetectionUsingYolov8/dataset/valid/images
+
+nc: 2
+names: ['helmet', 'head']
